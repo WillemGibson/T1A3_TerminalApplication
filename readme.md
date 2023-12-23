@@ -54,6 +54,8 @@ This feature allows an immersive expierence for the user and creates easy and re
 
 ## 📋 Implementation Plan (Trello Board)
 ![Implementation Plan](./docs/Implementation%20Plan.png)
+![Implementation Plan 2](./docs/Implementation%20Plan%202.png)
+![Implementation Plan 3](./docs/Implementation%20Plan%203.png)
 
 ## 🎛️ Control Flow Diagram
 ![Control Flow Diagram](./docs/Control%20Flow.jpg)
@@ -65,9 +67,9 @@ This feature allows an immersive expierence for the user and creates easy and re
 
 [Trello Implementation Plan](https://trello.com/b/qKThsnhw/terminal-app-t1a2)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1KIUdgLa7n4dRL_DjP1Lif-9Xx_JiWfdP2CxMzijC-ow/edit?usp=sharing)
 
-[Presentation Video]()
+[Presentation Video](https://www.loom.com/share/b8fe8a54da7d496ea6babf672645fcd5?sid=ba83c244-6327-43b2-9a2f-4db0f00fd13e)
 
 
 
